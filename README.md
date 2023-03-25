@@ -1,9 +1,14 @@
-https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/110976050/207169273-cd054792-29d8-4e39-b79f-c566cd7d4d2b.gif)
 <h1 align="center">Hi 👋, I'm Abenezer Assefa</h1>
 I am a Full-stack Developer 👨‍💻 || Back-end Developer || Front-end Developer || Proficient in Html, Css, Bootstrap,Node.Js, Ruby on Rails, React, Redux, Javascript || Enthusiastic about pair-programming || Lifetime learner.
 
 
 ![Profile Visitor](https://komarev.com/ghpvc/?username=AbenezerAssefa&color=brightgreen)[![GitHub followers](https://img.shields.io/github/followers/AbenezerAssefa.svg?style=social&label=Followers)](https://github.com/AbenezerAssefa?tab=followers)
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbenezerAssefa" alt="AbenezerAssefa"  width="450"/></a> </p>
+
+
 
 ## I'm Abenezer Assefa 😉
 - 🎓 I have a **Bachelor's degree** in Computer Engineering.
@@ -13,7 +18,9 @@ I am a Full-stack Developer 👨‍💻 || Back-end Developer || Front-end Devel
 - ✨ Interests: coding, reading books, Learning Language.
 - ⚡ Fact about me: **I have been working as a Freelance Website and Full-Stack Developer for almost 2 years**.
 
- ​- 🌐 &nbsp;
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="gif" align="right" width="290" >
+
+ - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -21,7 +28,7 @@ I am a Full-stack Developer 👨‍💻 || Back-end Developer || Front-end Devel
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
-  - 🛢 &nbsp;
+- 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
