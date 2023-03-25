@@ -1,4 +1,6 @@
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/110976050/207169273-cd054792-29d8-4e39-b79f-c566cd7d4d2b.gif)
+<p> <img align="right"  alt="gif" src="https://github.com/AbenezerAssefa/AbenezerAssefa/blob/main/Computer-screen-code-glitch-animation-gif-background-free.gif" width="1700"  height="400" /></p>
+
+<br>
 <h1 align="center">Hi 👋, I'm Abenezer Assefa</h1>
 I am a Full-stack Developer 👨‍💻 || Back-end Developer || Front-end Developer || Proficient in Html, Css, Bootstrap,Node.Js, Ruby on Rails, React, Redux, Javascript || Enthusiastic about pair-programming || Lifetime learner.
 
