@@ -14,7 +14,7 @@ I am a Full-stack Developer 👨‍💻 || Back-end Developer || Front-end Devel
 
 ## I'm Abenezer Assefa 😉
 - 🎓 I have a **Bachelor's degree** in Computer Engineering.
-- 👨🏻‍💻 I am learning **Full-Stack Software Developement** at [Microverse.](https://www.microverse.org/?grsf=prantosh-ck1wny)
+- 👨🏻‍💻 I am learning **Full-Stack Software Developement** at [Microverse.](https://www.microverse.org/?grsf=AbenezerAssefa-ck1wny)
 - 🌱 I’m currently working on side projects and applying to jobs.
 - 💻 All my projects are available [here.](https://github.com/AbenezerAssefa?tab=repositories)
 - ✨ Interests: coding, reading books, Learning Language.
