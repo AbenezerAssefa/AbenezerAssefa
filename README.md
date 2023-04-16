@@ -2,6 +2,8 @@
 
 <br>
 <h1 align="center">Hi 👋, I'm Abenezer Assefa</h1>
+ 
+
 I am a Full-stack Developer 👨‍💻 || Back-end Developer || Front-end Developer || Proficient in Html, Css, Bootstrap,Node.Js, Ruby on Rails, React, Redux, Javascript || Enthusiastic about pair-programming || Lifetime learner.
 
 
@@ -20,7 +22,12 @@ I am a Full-stack Developer 👨‍💻 || Back-end Developer || Front-end Devel
 - ✨ Interests: coding, reading books, Learning Language.
 - ⚡ Fact about me: **I have been working as a Freelance Website and Full-Stack Developer for almost 2 years**.
 
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="gif" align="right" width="290" >
+
+ <img align="right" src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width = "30%"/>
+
+<br /> 
+<br />
+   
 
  - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
